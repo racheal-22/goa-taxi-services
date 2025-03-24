@@ -26,8 +26,7 @@ export default function Pricing() {
       title: "Mopa Airport Pickup",
       image: "/mopa.png?height=200&width=300",
       description: "Calangute, Baga, Anjuna, Vagator",
-      price: "₹2200",
-      
+
       time: "~50 min",
     },
     {
